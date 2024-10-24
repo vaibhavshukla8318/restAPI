@@ -1,0 +1,62 @@
+[
+  {
+    "name": "pixel",
+    "price": 699,
+    "featured": true,
+    "company": "google"
+  },
+  {
+    "name": "meta",
+    "price": 299,
+    "featured": false,
+    "company": "facebook"
+  },
+  {
+    "name": "macBook",
+    "price": 999,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "speaker",
+    "price": 149,
+    "featured": false,
+    "company": "twitter"
+  },
+  {
+    "name": "camera",
+    "price": 399,
+    "featured": false,
+    "company": "instagram"
+  },
+  {
+    "name": "watch10",
+    "price": 129,
+    "featured": false,
+    "company": "google"
+  },
+  {
+    "name": "Portal",
+    "price": 199,
+    "featured": false,
+    "company": "facebook"
+  },
+  {
+    "name": "watch",
+    "price": 429,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "glasses",
+    "price": 249,
+    "featured": false,
+    "company": "twitter"
+  },
+  {
+    "name": "printer",
+    "price": 199,
+    "featured": false,
+    "company": "instagram"
+  }
+]
