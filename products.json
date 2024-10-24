@@ -58,5 +58,17 @@
     "price": 199,
     "featured": false,
     "company": "instagram"
+  },
+  {
+    "name": "phone",
+    "price": 129,
+    "featured": false,
+    "company": "google"
+  },
+  {
+    "name": "iphone12",
+    "price": 429,
+    "featured": false,
+    "company": "apple"
   }
 ]
